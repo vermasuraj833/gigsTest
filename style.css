@@ -134,7 +134,7 @@ section {
 .home {
   display: flex;
   background: #000;
-  background: url("../GIGS_Media/images/01.png") no-repeat center;
+  background: url("images/01.png") no-repeat center;
   height: 100vh;
   color: var(--white);
   min-height: 500px;
@@ -279,7 +279,7 @@ section {
 }
 /* menu.sec-menu section styling */
 .sec-menu {
-  background: url(../GIGS_Media/images/03.png) no-repeat center #0000008a;
+  background: url(images/03.png) no-repeat center #0000008a;
   background-size: cover;
   background-attachment: fixed;
   background-blend-mode: multiply;
@@ -388,7 +388,7 @@ section {
 }
 /* about-2 section styling */
 .about-2 {
-  background: url("../GIGS_Media/images/04.png") no-repeat center;
+  background: url("images/04.png") no-repeat center;
   color: var(--white);
   min-height: 500px;
   background-size: cover;
